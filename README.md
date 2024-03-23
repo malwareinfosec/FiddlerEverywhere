@@ -6,6 +6,6 @@
 
 # Installation
 
-* Import the [EKFiddle.farx](https://github.com/malwareinfosec/EKFiddle/blob/master/FiddlerEverywhere/EKFiddle.farx) file into Fiddler Everywhere's Rules tab
+* Import the [EKFiddle.farx](https://github.com/malwareinfosec/FiddlerEverywhere/blob/main/EKFiddle.farx) file into Fiddler Everywhere's Rules tab
 
 ![image](https://user-images.githubusercontent.com/25351665/133856959-4664197e-e05c-46cc-8acf-daf02195e763.png)
